@@ -6,9 +6,16 @@
       "settings": {
         "clients": [
           {
-            "id": "a2543bcd-71ee-4634-9137-4d48e8a57897"
+            "id": "a2543bcd-71ee-4634-9137-4d48e8a57897",
+            "alterId": 0
           }
         ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "wsSettings": {
+          "path": "/v2ray"
+        }
       }
     }
   ],
